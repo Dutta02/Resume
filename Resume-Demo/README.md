@@ -65,11 +65,11 @@ If you are developing a production application, we recommend using TypeScript wi
                            │   ├── assets/                 # (This file for images, fonts, icons, etc.)
                            │
                            │   ├── layout/                  # (Layout components like header, footer & main-layout)
-                           │   │   ├── Footer.jsx
-                           │   │   ├── Footer.css
-                           │   │   ├── Header.jsx
-                           │   │   ├── Header.css
-                           │   │   └── Mainlayout.jsx
+                           │   │   ├── Footer.jsx     => done
+                           │   │   ├── Footer.css     => done
+                           │   │   ├── Header.jsx     => done
+                           │   │   ├── Header.css     => done
+                           │   │   └── Mainlayout.jsx => done
                            │
                            │   ├── pages/                   # (Different Pages of your app)
                            │   │   ├── Designs.jsx
@@ -102,9 +102,9 @@ If you are developing a production application, we recommend using TypeScript wi
                           
                              Date    |      Event [ Milestone ]              |         Description
 
-                          2025-04-28 | Project starting set up project       | Team meeting and initial planning.
+                          2025-04-28 | Project starting set up project       | Team meeting and initial planning. => done 
 
-                          2025-04-28 | Ready with design                     | 	Finalize early UI/UX designs for testing and approval.
+                          2025-04-28 | Ready with design                     | 	Finalize early UI/UX designs for testing and approval. 
 
                           2025-04-29 | Developement Page :  1 & 2 & 3        | Present the product to the client.
 

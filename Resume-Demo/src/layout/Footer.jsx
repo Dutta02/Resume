@@ -1,9 +1,11 @@
 import React from 'react';
 import './Footer.css'; 
+import { Container } from 'react-bootstrap';
 
 
 function Footer() {
   return (
+    <Container>
     <footer className="footer">
       <div className="footer-content">
         <p>&copy; 2025 Your Name. All Rights Reserved.</p>
@@ -14,7 +16,8 @@ function Footer() {
         </div>
       </div>
     </footer>
-  );
+    </Container>
+  )
 }
 
 export default Footer;

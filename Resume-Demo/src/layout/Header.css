@@ -14,6 +14,11 @@
     background: white;
     color: black;
   }
+  .logo:hover{
+    background: linear-gradient(to right, #1E90FF, #000000);
+    color: #fff;
+    border-color: #000
+  }
   .home1{
     display:flex;
     align-items: center;
